@@ -1,6 +1,6 @@
 # How to display the tooltip at the first point of cartesian chart
 
-This repository contains sample to add tooltip at the first data point of [Syncfusion Flutter Chart](hhttps://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
+This repository contains sample to add tooltip at the first data point of [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13452/how-to-display-the-tooltip-always-in-the-first-data-point-in-dynamic-updates).
 
