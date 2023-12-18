@@ -95,7 +95,7 @@ class UpdatingLastPointTooltipState extends State<UpdatingLastPointTooltip> {
           height: 500,
           child: SfCartesianChart(
               tooltipBehavior: _tooltipBehavior,
-              series: <ChartSeries<ChartData, int>>[
+              series: <LineSeries<ChartData, int>>[
                 LineSeries<ChartData, int>(
                   onRendererCreated: (ChartSeriesController controller) {
                     _chartSeriesController = controller;
